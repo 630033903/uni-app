@@ -12,6 +12,8 @@
 
 - [uni-app 开发资源汇总](https://github.com/aben1188/awesome-uni-app/blob/master/README.md)：uni-app 一站式学习资源/开发资源汇总 -- aben1188
 
+- [仿抖音短视频app示例 for uni-app](https://ext.dcloud.net.cn/plugin?id=860)：超高性能的仿抖音上下滑动翻页浏览短视频项目示例 -- by 林举
+
 - [colorUI for uni-app](https://ext.dcloud.net.cn/plugin?id=239)：colorUI官方维护的uni-app版本，酷炫漂亮的css库 -- by 文晓港
 
 - [得推B2C商城](https://ext.dcloud.net.cn/plugin?id=187)：一套简洁的B2C商城，全部功能完善，用户、下单、注册 -- by 得推网络科技
